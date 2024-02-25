@@ -1,16 +1,34 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.fa2296ad.css",
-    "main.js": "/Portfolio/static/js/main.c80496d8.js",
+    "main.js": "/Portfolio/static/js/main.ce684cd7.js",
     "static/media/mysteryNumber.png": "/Portfolio/static/media/mysteryNumber.46e7ecc2784558456b7e.png",
     "static/media/1.png": "/Portfolio/static/media/1.4e631a1bbb294783547f.png",
+    "static/media/GMA7.png": "/Portfolio/static/media/GMA7.ca448d246cba10f39327.png",
+    "static/media/GMA18.png": "/Portfolio/static/media/GMA18.c34859a6a6002033599b.png",
+    "static/media/GMA15.png": "/Portfolio/static/media/GMA15.af59ee444ed8cfdce0bf.png",
+    "static/media/GMA8.png": "/Portfolio/static/media/GMA8.042383c14d3833995c9c.png",
+    "static/media/GMA13.png": "/Portfolio/static/media/GMA13.82fc11c68e1dcfa32f47.png",
+    "static/media/GMA11.png": "/Portfolio/static/media/GMA11.a559aa9a863a6419f59a.png",
+    "static/media/GMA14.png": "/Portfolio/static/media/GMA14.801160e73fc1cefbba9b.png",
+    "static/media/GMA10.png": "/Portfolio/static/media/GMA10.e0ef87a414b6cafd87e9.png",
+    "static/media/GMA12.png": "/Portfolio/static/media/GMA12.edd913584fe7e75418c0.png",
+    "static/media/GMA9.png": "/Portfolio/static/media/GMA9.14a160c75f8da481ed9c.png",
+    "static/media/GMA4.png": "/Portfolio/static/media/GMA4.5285b1008e80112759e7.png",
+    "static/media/GMA6.png": "/Portfolio/static/media/GMA6.347ebd941b7fa9b46c4c.png",
+    "static/media/GMA3.png": "/Portfolio/static/media/GMA3.44188054e867a95e238e.png",
+    "static/media/GMA5.png": "/Portfolio/static/media/GMA5.bd345f3b6025f36f0e18.png",
+    "static/media/GMA1.png": "/Portfolio/static/media/GMA1.844b1c3a8f28142702e5.png",
+    "static/media/GMA17.png": "/Portfolio/static/media/GMA17.5c25a66794ed8860fcda.png",
+    "static/media/GMA16.png": "/Portfolio/static/media/GMA16.cd6535bfff73fe586408.png",
+    "static/media/GMA2.png": "/Portfolio/static/media/GMA2.58f40d491e2fb37cf4af.png",
     "static/media/GMALogo.png": "/Portfolio/static/media/GMALogo.8c80db58cdf99fdbd4d9.png",
     "index.html": "/Portfolio/index.html",
     "main.fa2296ad.css.map": "/Portfolio/static/css/main.fa2296ad.css.map",
-    "main.c80496d8.js.map": "/Portfolio/static/js/main.c80496d8.js.map"
+    "main.ce684cd7.js.map": "/Portfolio/static/js/main.ce684cd7.js.map"
   },
   "entrypoints": [
     "static/css/main.fa2296ad.css",
-    "static/js/main.c80496d8.js"
+    "static/js/main.ce684cd7.js"
   ]
 }
