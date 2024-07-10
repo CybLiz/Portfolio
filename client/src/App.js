@@ -8,7 +8,7 @@ import { loadSlim } from "@tsparticles/slim"; // if you are going to use `loadSl
 
 
 import './App.css';
-import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route} from 'react-router-dom';
 
 
 // import pages
@@ -123,7 +123,6 @@ const App = () => {
 
   return <>
     <Router>
-     
 
       <Routes>
 
@@ -135,8 +134,6 @@ const App = () => {
         <Route path='/ProjectDetails1' element={<ProjectDetails1 />} />
         <Route path='/ProjectDetails2' element={<ProjectDetails2 />} />
         <Route path='/ProjectDetails3' element={<ProjectDetails3 />} />
-
-
       </Routes>
 
       <Particles
