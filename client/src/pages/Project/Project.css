@@ -87,6 +87,9 @@ body {
 	font-weight: bold;
 
 }
+#lastCard {
+	margin-bottom:100px;
+}
 @media screen and (min-width: 769px) and (max-width: 2290px){
 	.cardsMap {
 	width: 90%;
