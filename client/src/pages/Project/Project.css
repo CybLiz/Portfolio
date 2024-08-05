@@ -9,7 +9,7 @@ body {
 	flex-wrap: wrap;
 	align-items: center;
 	width: 70%;
-	height: 50%;
+	/* height: 50%; */
 	list-style: none;
 	position: absolute;
 	top: 50%;
