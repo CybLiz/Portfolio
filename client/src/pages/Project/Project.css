@@ -164,7 +164,9 @@ body {
 	font-size: medium;
 	font-weight: bold;
 }
-
+#lastCard {
+	margin-bottom: 0;
+}
 	
 }
 
